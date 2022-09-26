@@ -38,3 +38,8 @@ type(func_3)
 my_func = func_4
 func_4()
 my_func()
+
+lambda x: x**2
+
+fn1 = lambda x: x**2
+fn1(2)
